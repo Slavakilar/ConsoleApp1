@@ -10,6 +10,7 @@ namespace ConsoleApp1
             string a;
             a = Console.ReadLine();
             Console.WriteLine(a);
+            Console.WriteLine("push");
         }
     }
 }
